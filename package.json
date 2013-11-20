@@ -27,7 +27,8 @@
     "sspawn": "0.1.1",
     "cluestr-provider": "0.x.x",
     "newrelic": "1.x.x",
-    "restify": "2.6.x"
+    "restify": "2.6.x",
+    "soap": "0.3.0"
   },
   "devDependencies": {
     "mocha": "1.11.x",
